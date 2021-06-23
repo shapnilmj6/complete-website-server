@@ -17,7 +17,7 @@ app.use(fileUpload());
 const port = 5000;
 
 app.get('/', (req, res) => {
-    res.send("Hello from db it's working.")
+    res.send("Hello this is smart solution server site.")
 })
 
 
